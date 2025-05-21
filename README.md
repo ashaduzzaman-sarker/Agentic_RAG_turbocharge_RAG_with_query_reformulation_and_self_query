@@ -46,7 +46,6 @@ The notebook compares standard RAG with the proposed **Agentic RAG**, analyzing:
 ## Project Structure
 
 ```bash
-.
 ├── Agentic_RAG_turbocharge_RAG_with_query_reformulation_and_self_query.ipynb
 ├── README.md
 ```
