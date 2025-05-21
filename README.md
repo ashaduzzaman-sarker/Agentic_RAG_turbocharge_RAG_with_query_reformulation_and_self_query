@@ -1,5 +1,5 @@
 # Agentic RAG: Turbocharge Retrieval-Augmented Generation with Query Reformulation and Self-Query
----
+
 This project demonstrates how to enhance **Retrieval-Augmented Generation (RAG)** pipelines by integrating **query reformulation** and **self-query techniques** using agent-based reasoning. The goal is to improve retrieval quality and response relevance by allowing language models to actively participate in the query refinement process.
 
 ## What is RAG?
